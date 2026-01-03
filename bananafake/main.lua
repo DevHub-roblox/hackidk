@@ -64,6 +64,9 @@ if worldMap[placeId] then
     elseif placeId == 7449423635 then
         World3 = true
     end
+else
+    
+end
 repeat
     wait()
 until game.Players.LocalPlayer.Character
